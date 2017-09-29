@@ -4,7 +4,7 @@ Tweets were gathered using the twitter_stream.py file, and parsed using parseTwe
 
 Fahad used similar methods to gather the data, in the Fahad Tweets folder.
 
-I ran both Fahad’s set and my set (tweet_info.txt, parsedTweet_2.txt respectively) through hadoop wordcount and spark wordcount. The output from Fahad’s data are the files with small in the name, my files are the hadoop/spark_wordcount.txt files.
+I ran both Fahad’s set and my set (tweet_info.txt, parsedTweet_2.txt respectively) through hadoop wordcount and spark wordcount. The output from Fahad’s data are the files with small in the name, my files are the hadoop/spark_wordcount.txt files. My tweets do not have the hashtag in front of the name as I pulled them out of the son file not the text.
 
 The hadoop log files were taken after running hadoop wordcounts, the spark logs were taken after running spark wordcounts.
 
